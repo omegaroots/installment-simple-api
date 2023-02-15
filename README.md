@@ -27,7 +27,6 @@ http://ec2-15-188-64-151.eu-west-3.compute.amazonaws.com/api/installment/1
 GET::/api/installment/{id}
 POST::/api/installment
 
-
 # TO-DO
 * Implement a spring-security or any other token based authorization (like oauth, etc)
-* Implement a pipeline to deploy the application through any CI/CD Tool (Jenkins, github action, etc)
+  * Implement a pipeline to deploy the application through any CI/CD Tool (Jenkins, github action, etc)
